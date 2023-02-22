@@ -1,0 +1,23 @@
+﻿  Background.cpp
+  Vector2.cpp
+  Vector3.cpp
+  AnimatedSprite.cpp
+  ASCIIRenderer.cpp
+  Sprite.cpp
+  EndGameMenu.cpp
+  EnemyArmy.cpp
+  EnemyShip.cpp
+  Game.cpp
+C:\Users\PRV\Desktop\Coursework Radoslaw Dorociak\ASCII_GAME\ASCII_GAME\Game\Game.cpp(87,123): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\PRV\Desktop\Coursework Radoslaw Dorociak\ASCII_GAME\ASCII_GAME\Game\Game.cpp(173,38): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  ScoreDisplay.cpp
+  Main.cpp
+  Menu.cpp
+  Missile.cpp
+  PlayerShip.cpp
+  Star.cpp
+  Stars.cpp
+C:\Users\PRV\Desktop\Coursework Radoslaw Dorociak\ASCII_GAME\ASCII_GAME\Stars.cpp(56,45): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  UpperBar.cpp
+  Generowanie kodu...
+  ASCII_GAME.vcxproj -> C:\Users\PRV\Desktop\Coursework Radoslaw Dorociak\ASCII_GAME\Debug\ASCII_GAME.exe
